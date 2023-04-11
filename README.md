@@ -1,2 +1,1 @@
 # gerasimus.github.io
-# чо
